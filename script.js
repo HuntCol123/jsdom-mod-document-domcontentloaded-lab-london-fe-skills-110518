@@ -6,3 +6,4 @@ document.querySelector("body").addEventListener("click", e => console.log("Regga
 
 
 
+document.getElementBy
