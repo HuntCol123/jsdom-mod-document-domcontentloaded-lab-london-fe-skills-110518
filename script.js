@@ -6,4 +6,4 @@ document.querySelector("body").addEventListener("click", e => console.log("Regga
 
 
 
-document.getElementByID("hidden-div").innerHTML = 
+document.getElementByID("hidden-div").innerHTML = "301";
