@@ -6,4 +6,4 @@ document.querySelector("body").addEventListener("click", e => console.log("Regga
 
 
 
-document.getElementByID("hidden-div")
+document.getElementByID("hidden-div").innerHTML = 
